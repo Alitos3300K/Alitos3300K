@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=200&section=header&text=Jhon%20Rodriguez&fontSize=50&fontColor=gold&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Ingeniero%20de%20Sistemas&descAlignY=55&descColor=d4af37" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Jhon%20Rodriguez&fontSize=50&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=IT%20Operations%20%7C%20Fullstack%20Developer%20%7C%20Systems%20Engineer&descAlignY=55&descColor=FFA500" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas+%F0%9F%92%BB;Fullstack+.NET+Developer+%F0%9F%9A%80;SQL+Server+%7C+Python+%7C+Power+BI+%F0%9F%93%8A;Siempre+aprendiendo+algo+nuevo+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4444&center=true&vCenter=true&width=700&lines=IT+Operations+%26+Systems+Analyst+%F0%9F%92%BB;Fullstack+.NET+Developer+%F0%9F%9A%80;SQL+Server+%7C+Python+%7C+Power+BI+%F0%9F%93%8A;4%2B+a%C3%B1os+de+experiencia+en+TI+%F0%9F%94%A5;Cursando+Ingenier%C3%ADa+en+Sistemas+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 💫 About Me
 
-Soy Ingeniero de Sistemas apasionado por el desarrollo de software y la resolución de problemas a través de la tecnología. Trabajo con buenas prácticas de programación, control de versiones con Git y metodologías modernas de desarrollo. Tengo experiencia en Python, SQL, Power BI, .NET y herramientas de visualización, con interés constante en desarrollo web, machine learning y ciencia de datos.
+IT Operations & Systems Analyst con más de 4 años de experiencia en administración de infraestructura Windows, gestión de bases de datos SQL Server y soporte técnico corporativo en entornos híbridos y remotos. Especializado en resolución de incidentes críticos, optimización de procesos TI y fortalecimiento de la continuidad operativa. Actualmente cursando Ingeniería en Sistemas, fortaleciendo competencias en arquitectura tecnológica, desarrollo Fullstack y soluciones escalables orientadas a entornos cloud.
 
 ---
 
@@ -45,6 +45,8 @@ Soy Ingeniero de Sistemas apasionado por el desarrollo de software y la resoluci
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-003399?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
@@ -98,16 +100,6 @@ Soy Ingeniero de Sistemas apasionado por el desarrollo de software y la resoluci
 
 ---
 
-## 🐍 My Contributions
-
-<div align="center">
-
-![snake gif](https://github.com/Alitos3300K/Alitos3300K/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=Alitos3300K&icon=0&color=6)](https://visitcount.itsvg.in)
@@ -115,5 +107,5 @@ Soy Ingeniero de Sistemas apasionado por el desarrollo de software y la resoluci
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer"/>
 </div>
