@@ -61,6 +61,7 @@ IT Operations & Systems Analyst con más de 4 años de experiencia en administra
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [📚 BookRadar](https://github.com/Alitos3300K/BookRadar) | App web para buscar libros por autor con historial en SQL Server | .NET 8, C#, EF Core, SQL Server |
+| [⚡ WeatherRadar](https://github.com/Alitos3300K/WeatherRadar) | Dashboard del clima en tiempo real con pronóstico de 5 días y ciudades favoritas | .NET 8, C#, EF Core, SQL Server, OpenWeatherMap API |
 
 </div>
 
